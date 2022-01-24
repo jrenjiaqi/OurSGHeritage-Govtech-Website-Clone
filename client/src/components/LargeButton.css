@@ -1,0 +1,55 @@
+:root {
+  --primary: #fff;
+}
+
+.hero-btns .btn {
+  padding: 8px 20px;
+  border-radius: 2px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.hero-btns .btn--primary {
+  background-color: var(--primary);
+  color: #242424;
+  border: 2px solid #000;
+}
+
+.hero-btns .btn--outline {
+  background-color: rgba(0, 0, 0, 0.335);
+  color: #fff;
+  padding: 8px 20px;
+  border: 2px solid #fff;
+  transition: all 0.3s ease-out;
+}
+
+.hero-btns .btn--medium {
+  padding: 8px 20px;
+  font-size: 18px;
+}
+
+.hero-btns .btn--large {
+  padding: 12px 26px;
+  font-size: 20px;
+}
+
+.hero-btns .btn--large:hover {
+  border-color: #000;
+  transition: all 0.3s ease-out;
+  background: #fff;
+  color: #2c328d;
+  transition: 200ms;
+}
+
+.hero-btns .btn--medium:hover {
+  transition: all 0.3s ease-out;
+  background: #fff;
+  color: #2c328d;
+  transition: 200ms;
+}
+
+a {
+  color: inherit; /* original text colors remain the same */
+  text-decoration: inherit; /* no underline */
+}

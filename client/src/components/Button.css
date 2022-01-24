@@ -1,0 +1,22 @@
+.navbar .btn {
+  padding: 8px 20px;
+  border-radius: 4px;
+  font-weight: 700;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  color: #fff;
+  cursor: pointer;
+  background-color: #2c328d;
+  letter-spacing: 1px;
+}
+
+.navbar .btn:hover {
+  padding: 6px 18px;
+  transition: all 0.3s ease-out;
+  background-color: #fff;
+  color: #2c328d;
+  border-radius: 4px;
+  border: 1px solid #2c328d;
+  transition: all 0.3s ease-out;
+}

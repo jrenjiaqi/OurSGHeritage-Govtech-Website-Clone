@@ -1,0 +1,150 @@
+.chat__outer__container {
+    background-color: #fff;
+    padding-bottom: 4em;
+}
+
+.chat {
+    /* Ensures chat occupies 65% of horizontal space */
+    display: flex;
+    flex-direction: column;
+    flex: 0.65;
+    background-color: #ece5dd;
+    width: 65%;
+    margin: 0 auto; /* centers .chat within .chat__outer__container */
+}
+
+.chat__header {
+    /* Ensures elements in chat header aligns in a row and style*/
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+}
+
+.chat__headerInfo {
+    /* Flex: 1 allows elements to expand as much as possible within container.
+    /* chat__headerRight now expanded to right edge of container, ...
+     * ... instead of clustered at left with chat__headerInfo. */
+    flex: 1;
+    padding-left: 20px;
+}
+
+.chat__headerInfo > h3 {
+    /* Styles 'Room name' element */
+    margin-bottom: 3px;
+    font-weight: 500;
+}
+
+.chat__headerInfo > p {
+    /* Styles 'Last seen at...' */
+    color: gray;
+}
+
+.chat__body {
+    /* Styles chat body where messages reside */
+    flex: 1;
+    /* image link for WhatsApp default background */
+    background-image: url("../../public/images/playground.jpg");
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    overflow: scroll; /* Allows scrolling if too many messages to fit in a page */
+    overflow-x: hidden; /* hides horizontal scroller */
+}
+
+.chat__message {
+    /* Styles chat messages sent BY OTHERS*/
+    /* important for position: relative because we will be making use...
+     * ... of absolute positioning inside the chat__message container.
+     * Hence any positioning for elements within will be relative to chat__message container. */
+    position: relative;
+    font-size: 16px;
+    padding: 10px;
+    width: fit-content; /* Ensures content fits inside chat message */
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin-bottom: 30px;
+}
+
+.chat__receiver {
+    /* Styles message sent BY USER ...
+     * ... to be added on top of .chat__message style*/
+    margin-left: auto;
+    background-color: #dcf8c6;
+}
+
+.chat__timestamp {
+    /* Styles timestamp within chat message */
+    text-align: right;
+    font-size: xx-small;
+    padding-top: 0.5em;
+}
+
+.chat__name {
+    /* Styles the sender name for chat message */
+    position: relative;
+    font-weight: 800;
+    margin-left: 0.5em;
+    /* font-size: xx-small; */
+}
+
+.chat__content {
+    margin-top: 0.3em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    text-align: justify;
+}
+
+.chat__footer {
+    /* Ensures elements in footer goes into a spaced out row and is styled */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 62px;
+    border-top: 1px solid lightgray;
+}
+
+.chat__btn__link {
+    width: 100%;
+}
+
+.chat__footer .btn {
+    flex: 1;
+    outline-width: 0;
+    border-radius: 30px;
+    padding: 10px;
+    border: none;
+    
+    width: 100%;
+    background-color: #2c328d;
+    border-color: #2c328d;
+    color: #fff;
+    font-weight: 900;
+    font-size: 15px;
+    height: 5vh;
+    letter-spacing: 1px;
+}
+
+.chat__footer .btn:hover {
+    background-color: #fff;
+    border-color: #fff;
+    color: #2c328d;
+    font-weight: 900;
+    transition: all 0.3s ease-out;
+    cursor: pointer;
+}
+
+.chat__headerRight > .MuiSvgIcon-root {
+    /* Styles icons within chat header top right */
+    padding: 10px;
+    color: gray;
+    font-size: 3em;
+}
+
+.chat__footer > .MuiSvgIcon-root {
+    /* Styles icons within chat footer */
+    padding: 10px;
+    color: gray;
+    font-size: 3em;
+}

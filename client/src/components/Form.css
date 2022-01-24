@@ -1,0 +1,80 @@
+.form__container {
+    width: 50%;
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 5em;
+}
+
+.form__body {
+    margin-top: 0.5em;
+}
+
+.red {
+    color: red;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+  
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+textarea {
+    min-height: 8em;
+}
+
+.submit-btn {
+    float: right;
+    margin-top: 1em;
+    font-size: 1em;
+    letter-spacing: 1px;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+}
+
+.submit-btn:hover {
+    cursor: pointer;
+}
+
+.cancel-edit-btn {
+    margin-right: 1em;
+    background-color: rgb(255, 139, 139);
+}
+
+.error-msg {
+    text-align: right;
+    color: red;
+}
+
+.hide-this {
+    display: none;
+}
+
+@media screen and (max-width: 960px) {
+    .submit-btn {
+        display:block;
+    }
+}
