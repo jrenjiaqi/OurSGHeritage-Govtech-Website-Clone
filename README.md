@@ -11,7 +11,7 @@
 
   <h3 align="center">OurSGHeritage Version 2</h3>
   <h4 align="center">A modern renovation of Govtech's OurSGHeritage website.</h4>
-  <h4 align="center">Powered by [React.js](https://reactjs.org/) and [Ruby on Rails](https://rubyonrails.org/).</h4>
+  <h4 align="center">Powered by <a href="https://reactjs.org/">React.js</a> and <a href="https://reactjs.org/">Ruby on Rails</a>.</h4>
 
 </div>
 
@@ -33,11 +33,15 @@ This is a solo passion project that:
 </ul>
  
 ### Additional Feature
-* Feedback Portal with Past Submissions Management (CRUD)
+<ul>
+  <li><a href="#feedback-portal-with-past-submissions-management">Feedback Portal with Past Submissions Management</a></li>
+</ul>
 
 ### Video Tour of Complete Homepage
-* Homepage
-* Navbar and Footer
+<ul>
+  <li><a href="#homepage">Homepage</a></li>
+  <li><a href="#navbar-and-footer">Navbar and Footer</a></li>
+</ul>
 
 <!-- GETTING STARTED -->
 ## Key Areas of UI Redesign
@@ -55,7 +59,7 @@ https://user-images.githubusercontent.com/74390368/150774878-d49a5b92-f78f-4b22-
 
 ## Additional Feature
 
-### Feedback Portal with Past Submissions Management (CRUD)
+### Feedback Portal with Past Submissions Management
 https://user-images.githubusercontent.com/74390368/150778467-923d194b-aa49-4852-9bcc-531dd7ffd188.mp4
 
 <p align="right">(<a href="#top">back to top</a>)</p>
