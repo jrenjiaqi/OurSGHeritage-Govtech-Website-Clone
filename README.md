@@ -26,16 +26,18 @@ This is a solo passion project that:
 * replicates its fullstack implementation with **ReactJS** and **Ruby on Rails**.
 
 ### Key Areas of UI Redesign
-* [Dynamic and Interactive Hero Banner](### Dynamic and Interctive Hero Banner)
-* [Whatsapp-like Decorative Widget](### Whatsapp-like Decorative Widget)
-* [Polaroid-like Cards](### Polaroid-like Cards)
-
+<ul>
+  <li> <a href="#dynamic-and-interctive-hero-banner">Dynamic and Interactive Hero Banner</a></li>
+  <li> <a href="#whatsapp-like-decorative-widget">Whatsapp-like Decorative Widget</a></li>
+  <li> <a href="#polaroid-like-cards">Polaroid-like Cards</a></li>
+</ul>
+ 
 ### Additional Feature
-* [Feedback Portal with Past Submissions Management (CRUD)](### Feedback Portal with Past Submissions Management (CRUD))
+* Feedback Portal with Past Submissions Management (CRUD)
 
 ### Video Tour of Complete Homepage
-* [Homepage](### Homepage)
-* [Navbar and Footer](### Navbar and Footer)
+* Homepage
+* Navbar and Footer
 
 <!-- GETTING STARTED -->
 ## Key Areas of UI Redesign
