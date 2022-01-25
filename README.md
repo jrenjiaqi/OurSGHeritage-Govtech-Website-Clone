@@ -55,14 +55,14 @@ https://user-images.githubusercontent.com/74390368/150776155-55062faa-b9e2-442c-
 ### Polaroid-like Cards
 https://user-images.githubusercontent.com/74390368/150774878-d49a5b92-f78f-4b22-bd58-67d959a4e164.mp4
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#key-areas-of-ui-redesign">back to top</a>)</p>
 
 ## Additional Feature
 
 ### Feedback Portal with Past Submissions Management
 https://user-images.githubusercontent.com/74390368/150778467-923d194b-aa49-4852-9bcc-531dd7ffd188.mp4
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#key-areas-of-ui-redesign">back to top</a>)</p>
 
 ## Video Tour of Complete Homepage
 ### Homepage
@@ -71,4 +71,4 @@ https://user-images.githubusercontent.com/74390368/150779540-2e14e674-5363-40cf-
 ### Navbar and Footer
 https://user-images.githubusercontent.com/74390368/150779226-70934c56-d920-4f53-b2b7-b05e9429c19b.mp4
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#key-areas-of-ui-redesign">back to top</a>)</p>
