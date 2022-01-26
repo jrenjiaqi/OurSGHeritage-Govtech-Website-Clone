@@ -53,7 +53,6 @@ This is a passion project that:
   <li><a href="#navbar-and-footer">Navbar and Footer</a></li>
 </ul>
 
-<!-- GETTING STARTED -->
 ## Key Areas of UI Redesign
 
 ### Dynamic and Interctive Hero Banner
