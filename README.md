@@ -41,7 +41,7 @@ This is a passion project that:
   <li> <a href="#polaroid-like-cards">Polaroid-like Cards</a></li>
 </ul>
  
-### Additional Feature
+### Additional Features
 <ul>
   <li><a href="#feedback-portal-with-past-submissions-management">Feedback Portal with Past Submissions Management</a></li>
   <li><a href="#feedback-form-input-validation">Feedback Form Input Validation</a></li>
@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/74390368/150774878-d49a5b92-f78f-4b22-
 
 <p align="right">(<a href="#key-areas-of-ui-redesign">back to top</a>)</p>
 
-## Additional Feature
+## Additional Features
 
 ### Feedback Portal with Past Submissions Management
 https://user-images.githubusercontent.com/74390368/150778467-923d194b-aa49-4852-9bcc-531dd7ffd188.mp4
