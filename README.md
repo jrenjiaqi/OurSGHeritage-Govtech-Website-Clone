@@ -21,9 +21,13 @@
 ## About The Project
 <img width="1280" alt="1" src="https://user-images.githubusercontent.com/74390368/150767826-8fe991aa-cfba-41f3-b493-f8c0d465d460.png">
 
-This is a solo passion project that:
+This is a passion project that:
 * renovates Govtech's OurSGHeritage homepage to a **dynamic** and **modern** view.
 * replicates its fullstack implementation with **ReactJS** and **Ruby on Rails**.
+
+Acknowledgements and Original Contributions:
+* This project was based off of [travel front-end react website tutorial](https://youtu.be/I2UBjN5ER4s), and provided the template for hero banner and polaroid-like cards. 
+* The Whatsapp-like Decorative Widget was adapted from my previous project ['Whatsapp Messenger Clone'](https://github.com/jrenjiaqi/WhatsApp-Messenger-Clone), which was itself based off of a [whatsapp clone tutorial](https://youtu.be/gzdQDxzW2Tw).
 
 ### Key Areas of UI Redesign
 <ul>
