@@ -32,7 +32,7 @@ This is a passion project that:
 
 ### Original Contributions
 * ReactJS front-end logic to create dynamic and interactive hero banner
-* Feedback Portal
+* Feedback Portal with Past Submissions Management
 
 ### Key Areas of UI Redesign
 <ul>
