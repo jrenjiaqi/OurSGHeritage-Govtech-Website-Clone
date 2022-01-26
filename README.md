@@ -44,6 +44,7 @@ This is a passion project that:
 ### Additional Feature
 <ul>
   <li><a href="#feedback-portal-with-past-submissions-management">Feedback Portal with Past Submissions Management</a></li>
+  <li><a href="#feedback-form-input-validation">Feedback Form Input Validation</a></li>
 </ul>
 
 ### Video Tour of Complete Homepage
@@ -74,6 +75,9 @@ https://user-images.githubusercontent.com/74390368/150774878-d49a5b92-f78f-4b22-
 
 ### Feedback Portal with Past Submissions Management
 https://user-images.githubusercontent.com/74390368/150778467-923d194b-aa49-4852-9bcc-531dd7ffd188.mp4
+
+### Feedback Form Input Validation
+https://user-images.githubusercontent.com/98270848/151129664-f6b7a868-208b-4dff-bb6b-17bb25e2a91a.mp4
 
 <p align="right">(<a href="#key-areas-of-ui-redesign">back to top</a>)</p>
 
