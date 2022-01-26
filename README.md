@@ -11,7 +11,7 @@
 
   <h3 align="center">OurSGHeritage Version 2</h3>
   <h4 align="center">A modern renovation of Govtech's OurSGHeritage website.</h4>
-  <h4 align="center">Powered by <a href="https://reactjs.org/">React.js</a> and <a href="https://rubyonrails.org/">Ruby on Rails</a>.</h4>
+  <h4 align="center">Powered by <a href="https://reactjs.org/">React.js</a> and <a href="https://rubyonrails.org/">Ruby on Rails</a></h4>
 
 </div>
 
