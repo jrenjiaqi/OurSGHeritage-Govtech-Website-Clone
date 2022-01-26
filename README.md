@@ -22,7 +22,7 @@
 <img width="1280" alt="1" src="https://user-images.githubusercontent.com/74390368/150767826-8fe991aa-cfba-41f3-b493-f8c0d465d460.png">
 
 This is a passion project that:
-* renovates Govtech's OurSGHeritage homepage to a **dynamic** and **modern** view.
+* renovates Govtech's OurSGHeritage homepage with a **dynamic** and **modern** view.
 * replicates its fullstack implementation with **ReactJS** and **Ruby on Rails**.
 
 ### Acknowledgements
